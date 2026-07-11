@@ -19,17 +19,23 @@ Step4:browser
 http://localhost:11434/
 
 <br> Mac
+<br> 
  |
 <br> 
 Ollama
+<br> 
  |
  <br>
 Qwen2.5 / Llama
+<br> 
  |
  <br>
 Open WebUI
+<br> 
  |
  <br>
 Browser Chat Interface
+<br> 
  |
+ <br> 
 Burmese Documents (RAG)
