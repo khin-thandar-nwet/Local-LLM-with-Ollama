@@ -18,14 +18,18 @@ Hi! How can I help you today?
 Step4:browser
 http://localhost:11434/
 
-Mac
+<br> Mac
  |
+<br> 
 Ollama
  |
+ <br>
 Qwen2.5 / Llama
  |
+ <br>
 Open WebUI
  |
+ <br>
 Browser Chat Interface
  |
 Burmese Documents (RAG)
