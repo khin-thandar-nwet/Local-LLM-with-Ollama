@@ -46,12 +46,16 @@ Burmese Documents (RAG)
 WEB UI
 <br>
 Download docker
+<br>
 https://www.docker.com/products/docker-desktop/?utm_source=chatgpt.com
+<br>
 install docker
+
 # Terminal
 open -a Docker
 <br>
 docker ps
+<br>
 # Step 5: Run Open WebUI
 docker run -d \ --name open-webui \ -p 3000:8080 \ -e OLLAMA_BASE_URL=http://host.docker.internal:11434 \ -v open-webui:/app/backend/data \ --restart unless-stopped \ ghcr.io/open-webui/open-webui:main
 docker start open-webui
