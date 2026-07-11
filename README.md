@@ -14,10 +14,10 @@ ollama run qwen2.5:3b
 
 Step 6: Test
 >>> Hello
-Hi! How can I help you today?
-Step4:browser
-http://localhost:11434/
- http://localhost:11434/api/tags
+<br>Hi! How can I help you today?
+<br>Step4:browser
+<br>http://localhost:11434/
+<br>http://localhost:11434/api/tags
 
 <br> Mac
 <br> 
