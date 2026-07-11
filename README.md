@@ -63,12 +63,12 @@ docker start open-webui
 <img width="1253" height="708" alt="Screenshot 2026-07-11 at 10 39 02 PM" src="https://github.com/user-attachments/assets/03667596-2a0e-4b14-8f32-ac7488a98a8d" />
 <img width="1392" height="901" alt="Screenshot 2026-07-11 at 10 40 01 PM" src="https://github.com/user-attachments/assets/721848d5-8f22-46f1-8a63-8554aab253cc" />
 
-Requirements List for Creating Own LLM
-1.Objective
-2.Target Language
-3.Target User
-4.User cases
-Q&A, ChatBot, Classification
-5,Data Privacy
-6.Performance Target
-7.Deployment Model
+Requirements List for Creating Own LLM<br>
+1.Objective<br>
+2.Target Language<br>
+3.Target User<br>
+4.User cases<br>
+Q&A, ChatBot, Classification<br>
+5,Data Privacy<br>
+6.Performance Target<br>
+7.Deployment Model<br>
