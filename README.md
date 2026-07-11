@@ -39,3 +39,13 @@ Browser Chat Interface
  |
  <br> 
 Burmese Documents (RAG)
+
+Requirements List for Creating Own LLM
+1.Objective
+2.Target Language
+3.Target User
+4.User cases
+Q&A, ChatBot, Classification
+5,Data Privacy
+6.Performance Target
+7.Deployment Model
