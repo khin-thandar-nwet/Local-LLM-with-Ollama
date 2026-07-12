@@ -63,7 +63,7 @@ docker ps
 <img width="1253" height="708" alt="Screenshot 2026-07-11 at 10 39 02 PM" src="https://github.com/user-attachments/assets/03667596-2a0e-4b14-8f32-ac7488a98a8d" />
 <img width="1392" height="901" alt="Screenshot 2026-07-11 at 10 40 01 PM" src="https://github.com/user-attachments/assets/721848d5-8f22-46f1-8a63-8554aab253cc" />
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0f632aa4-8996-4427-b8b7-4accf9bf98ae" />
-image soruce form Chatgpt
+image soruce form Chatgpt<br>
 # Future <br>
 Requirements List for Creating Own LLM<br>
 1.Objective<br>
