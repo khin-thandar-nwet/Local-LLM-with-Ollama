@@ -41,7 +41,7 @@ Browser Chat Interface
  <br> 
 Burmese Documents (RAG)
 
-# Step 5. Install Docker Desktop
+# Step 7. Install Docker Desktop
 <br>
 WEB UI
 <br>
@@ -56,14 +56,14 @@ open -a Docker
 <br>
 docker ps
 <br>
-# Step 5: Run Open WebUI
+# Step 8: Run Open WebUI
 <br>docker run -d \ --name open-webui \ -p 3000:8080 \ -e OLLAMA_BASE_URL=http://host.docker.internal:11434 \ -v open-webui:/app/backend/data \ --restart unless-stopped \ ghcr.io/open-webui/open-webui:main
 <br>docker start open-webui
 
 <img width="1253" height="708" alt="Screenshot 2026-07-11 at 10 39 02 PM" src="https://github.com/user-attachments/assets/03667596-2a0e-4b14-8f32-ac7488a98a8d" />
 <img width="1392" height="901" alt="Screenshot 2026-07-11 at 10 40 01 PM" src="https://github.com/user-attachments/assets/721848d5-8f22-46f1-8a63-8554aab253cc" />
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0f632aa4-8996-4427-b8b7-4accf9bf98ae" />
-
+image soruce form Chatgpt
 Requirements List for Creating Own LLM<br>
 1.Objective<br>
 2.Target Language<br>
