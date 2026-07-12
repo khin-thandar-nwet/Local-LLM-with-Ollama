@@ -57,8 +57,8 @@ open -a Docker
 docker ps
 <br>
 # Step 5: Run Open WebUI
-docker run -d \ --name open-webui \ -p 3000:8080 \ -e OLLAMA_BASE_URL=http://host.docker.internal:11434 \ -v open-webui:/app/backend/data \ --restart unless-stopped \ ghcr.io/open-webui/open-webui:main
-docker start open-webui
+<br>docker run -d \ --name open-webui \ -p 3000:8080 \ -e OLLAMA_BASE_URL=http://host.docker.internal:11434 \ -v open-webui:/app/backend/data \ --restart unless-stopped \ ghcr.io/open-webui/open-webui:main
+<br>docker start open-webui
 
 <img width="1253" height="708" alt="Screenshot 2026-07-11 at 10 39 02 PM" src="https://github.com/user-attachments/assets/03667596-2a0e-4b14-8f32-ac7488a98a8d" />
 <img width="1392" height="901" alt="Screenshot 2026-07-11 at 10 40 01 PM" src="https://github.com/user-attachments/assets/721848d5-8f22-46f1-8a63-8554aab253cc" />
