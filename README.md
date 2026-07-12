@@ -1,9 +1,9 @@
 # Local-LLM-with-Ollama and Docker
 Local LLM with Ollama
-Ollama
+
 # Step1:Brew
 brew --version
-# Step2: Installation
+# Step2: Installation Ollama
 brew install ollama
 # Step3: Serve start
 ollama serve
